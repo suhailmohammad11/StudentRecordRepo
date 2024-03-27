@@ -1,4 +1,4 @@
 c
 java
-python
-html
+C++
+jscript
